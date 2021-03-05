@@ -8,6 +8,7 @@ IRC Bot -  that finds people on different networks
 - Tool that's allow to log the users in channel with their details like: Username, Host, Realname and Country and find same People on different IRC Networks.
 
 Matching People by:
--Username
--Hostname
+- Username
+- Hostname
 - IP
+
